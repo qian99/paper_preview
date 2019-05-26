@@ -36,11 +36,11 @@
 
 # SiameseNetwork
 
-**论文名：** Learning a Similarity Metric Discriminatively, with Application to Face Verification
+**论文名:** Learning a Similarity Metric Discriminatively, with Application to Face Verification
 
-**链接：**http://yann.lecun.com/exdb/publis/pdf/chopra-05.pdf
+**链接:** http://yann.lecun.com/exdb/publis/pdf/chopra-05.pdf
 
-**简介：** 孪生神经网络。通过两个共享权重的网络，判断两个输入的相似程度，可以用在人脸识别上。
+**简介:** 孪生神经网络。通过两个共享权重的网络，判断两个输入的相似程度，可以用在人脸识别上。
 
 **file_name:**  SiameseNetwork.pdf
 
@@ -48,9 +48,9 @@
 
 # Unet
 
-**论文名：**U-Net: Convolutional Networks for Biomedical Image Segmentation
+**论文名:** U-Net: Convolutional Networks for Biomedical Image Segmentation
 
-**链接：** https://arxiv.org/abs/1505.04597
+**链接:** https://arxiv.org/abs/1505.04597
 
 **简介：** 基于FCN的网络结构，修改了网络的框架，浅层与深层网络的特征进行堆叠，通常用于图像分割，可以进行像素级分类。
 
@@ -60,7 +60,7 @@
 
 # Image Style Transfer
 
-**论文名：**Image Style Transfer Using Convolutional Neural Networks
+**论文名:** Image Style Transfer Using Convolutional Neural Networks
 
 **链接：** https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf
 
@@ -132,7 +132,7 @@
 
 # OctConv
 
-**论文名：**Drop an Octave: Reducing Spatial Redundancy in Convolutional Neural Networks with Octave Convolution
+**论文名:** Drop an Octave: Reducing Spatial Redundancy in Convolutional Neural Networks with Octave Convolution
 
 **链接：** https://arxiv.org/abs/1904.05049
 
@@ -170,7 +170,7 @@
 
 # Visualizing and Understanding Convolutional Networks
 
-**论文名：**Visualizing and Understanding Convolutional Networks
+**论文名:** Visualizing and Understanding Convolutional Networks
 
 **链接：** https://arxiv.org/abs/1311.2901
 
