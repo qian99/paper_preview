@@ -30,7 +30,7 @@
 
 **简介:**  目标检测，基于faster-rcnn的结构，添加了几个卷积层用以生成anchor，令网络可以生成合适的anchor。
 
-**file_name: ** GuidAnchor.pdf
+**file_name:** GuidAnchor.pdf
 
 
 
@@ -66,7 +66,7 @@
 
 **简介：** 风格迁移。基本上可以理解为把另一张图片的纹理迁移到另一张图片上，通过定义风格相似度的loss进行学习。
 
-**file_name: ** Image_Style_Transfer.pdf
+**file_name:** Image_Style_Transfer.pdf
 
 
 
@@ -84,7 +84,7 @@
 
 # mixup
 
-**论文名： ** mixup: Beyond Empirical Risk Minimization
+**论文名：** mixup: Beyond Empirical Risk Minimization
 
 **链接：** https://arxiv.org/abs/1710.09412
 
@@ -120,7 +120,7 @@
 
 # RSTN
 
-**论文名： **Recurrent Spatial Transformer Networks
+**论文名：** Recurrent Spatial Transformer Networks
 
 **链接：** https://arxiv.org/abs/1509.05329
 
@@ -158,7 +158,7 @@
 
 # Xception， Depthwise Separable Convolutions
 
-**论文名： **Xception: Deep Learning with Depthwise Separable Convolutions
+**论文名：** Xception: Deep Learning with Depthwise Separable Convolutions
 
 **链接：** https://arxiv.org/abs/1610.02357
 
@@ -200,4 +200,4 @@
 
 **简介：** Class Activation Mapping（类激活图），可以用在分类网络的可视化中，得到分类依据的热力图。利用梯度计算feature_map的加权图，解决了CAM需要修改结构重新训练的弊端。
 
-**file_name: ** Grads-Cam.pdf
+**file_name:** Grads-Cam.pdf
