@@ -24,9 +24,9 @@
 
 # CTC Loss
 
-**论文名： ** Connectionist Temporal Classification: Labelling Unsegmented Sequence Data with Recurrent Neural Networks
+**论文名：** Connectionist Temporal Classification: Labelling Unsegmented Sequence Data with Recurrent Neural Networks
 
-**链接： **  https://www.cs.toronto.edu/~graves/icml_2006.pdf
+**链接：**  https://www.cs.toronto.edu/~graves/icml_2006.pdf
 
 **简介：**  主要用于对不定长序列做解码，不需要对序列中特定的位置进行标注。论文使用了前向后向的动态规划算法，计算当前输出与label的loss。可以用于音频或图像的解码。
 
@@ -36,7 +36,7 @@
 
 # CRAFT
 
-**论文名： ** Character Region Awareness for Text Detection
+**论文名：** Character Region Awareness for Text Detection
 
 **链接：** https://arxiv.org/abs/1904.01941
 
